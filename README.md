@@ -24,7 +24,7 @@ This project explores storm events reported in St. Louis County, Missouri over t
 
 ## 📁 Files
 - `stl_storms_cleaned.csv`: Cleaned dataset used in Tableau
-- `storm_dasboard.jpeg`: Screenshot of the published dashboard
+- `storm_dashboard.jpeg`: Screenshot of the published dashboard
 
 
 ---
