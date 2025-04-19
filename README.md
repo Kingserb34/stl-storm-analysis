@@ -1,8 +1,7 @@
 # 🌪️ St. Louis County Storm Analysis (2015–2024)
 
-- ![Dashboard Screenshot](storm_dashboard.jpeg)
 <p align="center">
-  <img src="storm_dashboard.jpeg" width="480">
+  <img src="storm_dashboard.jpeg" width="600">
 </p>
 
 This project explores storm events reported in St. Louis County, Missouri over the past decade using data from the National Weather Service. Using Tableau, I visualized trends, impact, and narratives behind storms such as hail, thunderstorm winds, and excessive heat.
